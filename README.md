@@ -9,4 +9,4 @@ If the player wins:
 If the player clicks on the wrong tile:
 - The tile disappears and they get a chance to click on the remaining tiles.
 
-Hint: use loops, high-order array methods and conditional statements.
+Hint: use loops, high-order array mods and conditional statements.
